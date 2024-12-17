@@ -22,6 +22,7 @@ A simple and user-friendly **Weather Application** built using **React.js**. It 
 ---
 
 ## 🚀 Live Demo
+ https://fathima-sameerah.github.io/React-Weather-App/
 
 
 
